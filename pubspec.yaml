@@ -1,0 +1,14 @@
+name: profile_app
+
+environment:
+  sdk: '^3.11.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  video_player: ^2.8.0
+
+flutter:
+  assets:
+    - assets/profile.jpg
+    - assets/video.mp4
